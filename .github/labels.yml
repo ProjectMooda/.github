@@ -86,10 +86,6 @@
   color: "14b8a6"
   description: 백엔드 관련
 
-- name: area:ui
-  color: "ec4899"
-  description: UI 시스템 관련
-
 - name: area:api
   color: "06b6d4"
   description: API 관련
