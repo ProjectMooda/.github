@@ -21,4 +21,4 @@ jobs:
             ProjectMooda/mooda-app
             ProjectMooda/mooda-backend
           token: ${{ secrets.LABEL_SYNC_TOKEN }}
-          manifest: labels.yml
+          manifest: .github/labels.yml
