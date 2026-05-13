@@ -94,18 +94,6 @@
   color: "06b6d4"
   description: API 관련
 
-- name: area:calendar
-  color: "8b5cf6"
-  description: 캘린더 기능 관련
-
-- name: area:schedule
-  color: "0ea5e9"
-  description: 일정 기능 관련
-
-- name: area:goal
-  color: "f97316"
-  description: 목표 기능 관련
-
 # -----------------------------
 # SPECIAL
 # -----------------------------
