@@ -1,0 +1,127 @@
+- name: feat
+  color: "6366f1"
+  description: 새로운 기능
+
+- name: fix
+  color: "ef4444"
+  description: 버그 수정
+
+- name: style
+  color: "ec4899"
+  description: UI 및 디자인 수정
+
+- name: refactor
+  color: "14b8a6"
+  description: 코드 리팩토링
+
+- name: docs
+  color: "3b82f6"
+  description: 문서 수정
+
+- name: chore
+  color: "a1a1aa"
+  description: 설정 및 기타 작업
+
+- name: test
+  color: "f59e0b"
+  description: 테스트 관련 작업
+
+- name: hotfix
+  color: "dc2626"
+  description: 긴급 수정
+
+# -----------------------------
+# STATUS
+# -----------------------------
+
+- name: status:ready
+  color: "22c55e"
+  description: 작업 가능 상태
+
+- name: status:in-progress
+  color: "f59e0b"
+  description: 현재 작업 중
+
+- name: status:review
+  color: "8b5cf6"
+  description: 리뷰 진행 중
+
+- name: status:blocked
+  color: "ef4444"
+  description: 외부 요인으로 진행 불가
+
+- name: status:done
+  color: "10b981"
+  description: 작업 완료
+
+# -----------------------------
+# PRIORITY
+# -----------------------------
+
+- name: priority:high
+  color: "dc2626"
+  description: 높은 우선순위
+
+- name: priority:medium
+  color: "f59e0b"
+  description: 일반 우선순위
+
+- name: priority:low
+  color: "84cc16"
+  description: 낮은 우선순위
+
+# -----------------------------
+# AREA
+# -----------------------------
+
+- name: area:web
+  color: "3b82f6"
+  description: 웹 프론트엔드 관련
+
+- name: area:desktop
+  color: "6366f1"
+  description: Electron/Desktop 관련
+
+- name: area:backend
+  color: "14b8a6"
+  description: 백엔드 관련
+
+- name: area:ui
+  color: "ec4899"
+  description: UI 시스템 관련
+
+- name: area:api
+  color: "06b6d4"
+  description: API 관련
+
+- name: area:calendar
+  color: "8b5cf6"
+  description: 캘린더 기능 관련
+
+- name: area:schedule
+  color: "0ea5e9"
+  description: 일정 기능 관련
+
+- name: area:goal
+  color: "f97316"
+  description: 목표 기능 관련
+
+# -----------------------------
+# SPECIAL
+# -----------------------------
+
+- name: discussion
+  color: "64748b"
+  description: 논의가 필요한 작업
+
+- name: help wanted
+  color: "0ea5e9"
+  description: 도움이 필요한 작업
+
+- name: good first issue
+  color: "22c55e"
+  description: 처음 기여하기 좋은 작업
+
+- name: breaking change
+  color: "dc2626"
+  description: 호환성이 깨지는 변경
